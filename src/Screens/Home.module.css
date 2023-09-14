@@ -1,0 +1,37 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to top, rgba(161, 140, 209, 0.395) 0%, rgba(251, 194, 235, 0.41) 100%), url(https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    padding: 20px 20px 200px;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  .titleContainer {
+    padding-top: 80px;
+  }
+  
+  .home p {
+    font-size: 2.5em;
+    color: #fffefe;
+  }
+  
+  .callToAction {
+    background-color: #1f044a;
+    padding: 10px;
+    margin-left: 20px;
+    transition: 0.5s;
+    border-radius: 10px;
+    color: aliceblue;
+  }
+  
+  .callToAction:hover {
+    padding: 15px;
+    cursor: pointer;
+  }
+  
+  .ctaContainer {
+    padding-top: 40px;
+  }

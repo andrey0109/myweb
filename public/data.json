@@ -1,0 +1,41 @@
+{
+    "Categories": [
+        { "name": "All" },
+        { "name": "Adidas" },
+        { "name": "Nike" },
+        { "name": "Air Jordan" },
+        { "name": "Puma" }
+    ],
+    "collections": [
+        {
+            "category": 2,
+            "name": "Novedades",
+            "photos": [
+                "https://images.unsplash.com/photo-1641745900322-df0427549fab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2066&q=80",
+                "https://images.unsplash.com/photo-1634525950737-91f322cb05eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                "https://images.unsplash.com/photo-1631642751439-b3e28f3638e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1832&q=80",
+                "https://images.unsplash.com/photo-1474494819794-90f9664b530d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80"
+            ]
+        },
+        {
+            "category": 1,
+            "name": "Tallas Limitadas",
+            "photos": [
+                "https://images.unsplash.com/photo-1670809782056-523aa3491036?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2028&q=80",
+                "https://images.unsplash.com/photo-1634320498229-0b8c7d009fe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                "https://images.unsplash.com/photo-1610897600804-c36e2336ad3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                "https://images.unsplash.com/photo-1611299106168-277a21fad977?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+            ]
+        },
+        {
+                "category": 1,
+                "name": "Rebajas",
+                "photos": [
+                    "https://images.unsplash.com/photo-1510999391231-49f42bcbeec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                    "https://images.unsplash.com/photo-1679284392805-1b7f8e2e3f21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                    "https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                    "https://images.unsplash.com/photo-1509991956814-dde211b7a2e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+                ]
+            }
+    ]
+}
